@@ -20,7 +20,7 @@ _Analyzing vendor efficiency and profitability to support strategic purchasing a
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 
-This project evaluates vendor performace and retail inventory dynamics to drive strategic insights for purchasing, pricing and inventory optimization. A complete data pipeline was built using SQL for ETL, Python for analysis and hypothesis testing, and Power BI for visualization.
+This project evaluates vendor performace and retail inventory dynamics to drive strategic insights for purchasing, pricing and inventory optimization. A complete data pipeline was built using SQL for ETL, Python for analysis, and Power BI for visualization.
 
 ---
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
@@ -29,7 +29,6 @@ Effective inventory and sales management are critical in the retail sector. This
 - Indentify underperforming brands needing pricing or promotional adjustments.
 - Analyze the cost-benefit of bulk purchasing.
 - Investigate inventory turnover inefficiencies.
-- Statistically validate differences in vendor profitability.
 
 ---
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
@@ -103,8 +102,6 @@ vendor-performance-analysis/
 2. **Top Vendors:** Top 10 vendors = 65.69% of purchases risk of over-reliance 
 3. **Bulk Purchasing Impact:** 72% cost savings per unit in large orders 
 4. **Inventory Turnover:** $2.71M worth of unsold inventory 
-5. **Vendor Profitability:** — High Vendors: Mean Margin = 31.17% — Low Vendors: Mean Margin = 41.55% 
-6. **Hypothesis Testing:** Statistically significant difference in profit margins distinct vendor strategies
 
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
