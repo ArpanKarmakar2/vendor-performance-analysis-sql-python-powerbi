@@ -97,7 +97,8 @@ vendor-performance-analysis/
 - Negative between Profit Margin & Sales Price (–0.179)
 
 ---
-<h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2> 
+<h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
+
 1. **Brands for Promotions:** 198 brands with low sales but high profit margins 2. **Top Vendors:** Top 10 vendors = 65.69% of purchases risk of over-reliance 
 3. **Bulk Purchasing Impact:** 72% cost savings per unit in large orders 
 4. **Inventory Turnover:** $2.71M worth of unsold inventory 
